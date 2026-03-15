@@ -1,14 +1,8 @@
-Portfolio_Project_Tree
+# Portfolio_details
 
--> Product_analysis_projects
+| Название проекта      |  Описание          |  Стек         |
+| --------------------- | ------------------ | ------------- |
+| Анализ маркетплейса   | Content Cell       | Content Cell  |
+| Автоматизация Airflow | Content Cell       | Content Cell  |
 
-    --> marketplace _analysis.ipynb
-  
-    --> README.md
-  
--> Workflow_Automation_projects
-
-    --> Airflow_project.ipynb
-  
-    --> README.md
 
